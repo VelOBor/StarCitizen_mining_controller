@@ -1,7 +1,7 @@
 # StarCitizen_mining_controller
-This is the repository for SaltyNUggeTZ's DIY mining controller for Star Citizen game
-The wirng diagram is designed in fritzing, and the 3D model in Autodesk Fusion360 (startup license, free for non-profit),
-code is written in VSCode PlatformIO.
+This is the repository for SaltyNUggeTZ's DIY mining controller for Star Citizen game;
+The wirng diagram is designed in fritzing, and the 3D model in Autodesk Fusion360 (startup license, free for non-profit),;
+code is written in VSCode PlatformIO.;
 The entire project is done in open source (or otherwise free for non-profit) software and hardware.
 The controller is based on an Arduino Pro Micro board and joystick.h library by M. Heironimus and can be found at 
 https://github.com/MHeironimus/ArduinoJoystickLibrary
