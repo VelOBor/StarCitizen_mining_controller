@@ -8,7 +8,7 @@ https://github.com/MHeironimus/ArduinoJoystickLibrary
 This controller is intended for use with the game Star Citizen by Cloud Imperium Games and Roberts Space Industries.  
 You are free to replicate the controller as you wish, feel free to give credit to the original author.  
 Images of the project are located at www.imgur.com/a/ncCLJdH  
-The schematics in fritzing are located within the root directory of this repository (SC mining controller schematics (fritzing)  
+The schematics in fritzing are located within the root directory of this repository. File is named "SC mining controller schematic (fritzing)"  
 Feel free to ping me at https://www.reddit.com/user/Salty_NUggeTZ  
 
 The functions layout and concept:  
