@@ -7,7 +7,8 @@ The controller is based on an Arduino Pro Micro board and joystick.h library by 
 https://github.com/MHeironimus/ArduinoJoystickLibrary
 This controller is intended for use with the game Star Citizen by Cloud Imperium Games and Roberts Space Industries.
 You are free to replicate the controller as you wish, feel free to give credit to the original author. 
-Images of the project are located at <blockquote class="imgur-embed-pub" lang="en" data-id="a/ncCLJdH"  ><a href="//imgur.com/a/ncCLJdH">Star Citizen mining controller images</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+Images of the project are located at imgur.com/a/ncCLJdH
+Feel free to ping me at https://www.reddit.com/user/Salty_NUggeTZ
 The functions layout and concept:
 Axes: 2 (1 used, 1 reserve)
 Buttons: 8 (momentary)
