@@ -9,7 +9,10 @@ This controller is intended for use with the game Star Citizen by Cloud Imperium
 You are free to replicate the controller as you wish, feel free to give credit to the original author.  
 Images of the project are located at www.imgur.com/a/ncCLJdH  
 The schematics in fritzing are located within the root directory of this repository. File is named "SC mining controller schematic (fritzing)"  
-Feel free to ping me at https://www.reddit.com/user/Salty_NUggeTZ  
+I decided to use an off the shelf available housing that's intended as a crane remote control, and I made the model of it in Fusion360,  
+You could print this housing (may want to close up the holes in one of the clamshells) or find a better housing, or even design your own.  
+The 3D model (in Fusion360) can be found here: https://a360.co/3kVoCuL (unfortunately due to limitations of the non-commercial license you can't download the model)  
+Feel free to ping me at https://www.reddit.com/user/Salty_NUggeTZ if you have any questions or need help replicating this design  
 
 The functions layout and concept:  
 Axes: 2 (1 used, 1 reserve)  
